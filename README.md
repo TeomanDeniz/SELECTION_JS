@@ -59,12 +59,6 @@ https://github.com/user-attachments/assets/ef423119-6afd-4fa4-b400-94299f475748
 </SVG>
 ```
 
-5. Also add the required `<DIV>` element inside your HTML ***(Must inside the `<BODY>`)***:
-
-```HTML
-<DIV ID="SELECTION_CONTAINER"></DIV>
-```
-
 ## Usage
 
 Call the `SOFT_SELECTION()` function after the page has loaded:
