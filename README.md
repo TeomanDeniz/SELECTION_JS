@@ -2,6 +2,14 @@
 
 This library enables a custom selection effect when a user selects text inside specific elements. You can also trigger an optional animation when the user presses Ctrl+C to copy the selected content.
 
+![Preview_1](https://github.com/user-attachments/assets/e039186d-03d0-4639-a941-8e45f0fb76ec)
+
+![Preview_2](https://github.com/user-attachments/assets/533e179e-586d-4fd8-8dd0-86f5791a366d)
+
+![Preview_3](https://github.com/user-attachments/assets/904667b5-a587-40e4-99cf-2f3712d15cff)
+
+https://github.com/user-attachments/assets/ef423119-6afd-4fa4-b400-94299f475748
+
 ## Features
 
 - Highlight effect using customizable colored overlays
